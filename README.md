@@ -1,0 +1,2 @@
+# .github
+Infomation about us
