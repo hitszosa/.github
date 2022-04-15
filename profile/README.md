@@ -1,6 +1,9 @@
+<!-- <div align="center"> -->
+
 # HITsz Linux User Group
 
-![Logo](https://github.com/hitszlug/hitsz-lug-stickers/raw/penguin/dist/%5Blogo%5D-meta.svg)
+<!-- <img src="https://github.com/hitszlug/hitsz-lug-stickers/raw/penguin/dist/%5Blogo%5D-meta.svg" style="height=128px" > -->
+<!-- </div> -->
 
 我们是 HITsz Linux User Group（a.k.a. LUG），哈尔滨工业大学深圳校区里的一个 ~~地下组织~~ 兴趣结社，旨在联合本校的 GNU/Linux 使用者，推广 GNU/Linux 的使用，提高大众对 GNU/Linux 的了解，宣传自由软件的价值并推广其使用，提升自由软件社区文化氛围。
 
