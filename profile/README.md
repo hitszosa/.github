@@ -1,5 +1,5 @@
 <!-- <div align="center"> -->
-![位图](https://user-images.githubusercontent.com/12044683/164254572-f1ada83d-bb20-4407-8414-6710389e79e2.png)
+<!-- ![位图](https://user-images.githubusercontent.com/12044683/164254572-f1ada83d-bb20-4407-8414-6710389e79e2.png) -->
 
 # HITsz Linux User Group
 
